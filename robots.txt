@@ -1,0 +1,35 @@
+User-Agent: *
+Disallow: /
+Disallow: /favicon.ico$
+Allow: /index.html$
+Disallow: /Pieœni/*.htm$
+Disallow: /dziwne obrazki/*.jpg$
+Disallow: /Przepisy/*.htm$
+Disallow: /Wakacje/*.gif$
+Disallow: /other/*.gif$
+Disallow: /other/*.jpg$
+Disallow: /other/*.exe$
+Disallow: /other/China Made/*.gif$
+Disallow: /other/downloads/*.gif$
+Disallow: /other/Dziwne obrazki/*.gif$
+Disallow: /other/F, N i N/*.gif$
+Disallow: /other/Fragmenty ksi¹¿ek/*.gif$
+Disallow: /other/Inne/*.gif$
+Disallow: /other/kakalko/*.gif$
+Disallow: /other/Kawa³y/*.gif$
+Disallow: /other/Linki/*.gif$
+Disallow: /other/Og³oszenia drobne/*.gif$
+Disallow: /other/przepisy/*.gif$
+Disallow: /other/R i H/*.gif$
+Disallow: /other/Satyryka.pl/*.gif$
+Disallow: /other/Szyna i ser/*.gif$
+Disallow: /other/Teksty piosenek/*.gif$
+Disallow: /other/V i M/*.gif$
+Disallow: /other/Wakacje/*.gif$
+Disallow: /other/Wiersze/*.gif$
+Disallow: /other/Zagadki/*.gif$
+Disallow: /other/Zasady/*.gif$
+Disallow: /Felix, Net i Nika/*.htm$
+Disallow: /Felix, Net i Nika/Felix, Net i Nika oraz gang niewidzialnych ludzi/*.htm$
+Disallow: /Przepisy/*.htm$
+Disallow: /Inne/*.html
